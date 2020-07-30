@@ -9,7 +9,7 @@ Then the code is wrapped into an application with the help of the Flask package.
 
 When the application is run, it will show a simple welcome page with instructions on how to scrape. For example: when you type '/scrape/Amsterdam/2', (syntax - 'URL/scrape//<no.of pages>') the application will scrape the first two pages of the TripAdvisor list of the restaurants in the city of Amsterdam. Once it is scrapped, the output will be downloaded as a CSV file to your hard disk.
 
-- Running the script
+- Running the script locally
 ![](Images/1.PNG)
 
 - Welcome page 
